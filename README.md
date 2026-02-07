@@ -29,12 +29,5 @@ in traffic management and smart city infrastructure.
 - Algorithms  
 - Graph Theory  
 
-▶ How to Run the Project
-   Step 1: Compile
-```bash
-gcc src/smart_parking.c -o smart_parking
-   Step 2: Run
-./smart_parking
-
 👩‍💻 Author
 **Annanya Oberoi**  
